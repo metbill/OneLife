@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Hitu
+
+  Created by hitomedia on 16/6/21.
+  Copyright © 2016年 hitomedia. All rights reserved.
+*/
+"TabbarFirstItemTitle"="Home";
+"TabbarSecondItemTitle"="MyTour";
+"TabbarThirdItemTitle"="StationNavigation";
+"TabbarFourthItemTitle"="PersonCenter";
+
+"GuideStartBtnTitle"="start";
+
+"HomeNavtitle"="Hitu";

@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  Hitu
+
+  Created by hitomedia on 16/6/21.
+  Copyright © 2016年 hitomedia. All rights reserved.
+*/
+
+"TabbarFirstItemTitle"="车票预订";
+"TabbarThirdItemTitle"="车站导航";
+"TabbarSecondItemTitle"="我的行程";
+"TabbarFourthItemTitle"="个人中心";
+
+//引导页立刻体验按钮的标题
+"GuideStartBtnTitle"="立即体验";
+
+//首页内容
+"HomeNavtitle"="Hi途";
+"HomeTicketQuery" = "车票查询";
+"HomeLuggageService" = "行李服务";
+"HomeOntimeOrLate" = "正晚点";
+"HomeWaitingInfo" = "候车信息";
+
+//修改昵称
+"ModifyNickNameTitle"="修改昵称";
+"ModifyNickNameDes"="以英文字母或汉字开头，限制4~20个字符";
+"ModifyNickNameTfPlaceHolder"="请输入昵称";
+"ModifyNickNameSaveBtnTitle"="保存";
+
+//个人信息页
+"PersonInfoTitle"="账户信息";
+"PersonInfoHeadImgMark"="头像";
+"PersonInfoNickNameMark"="昵称";
+"PersonInfoPhoneMark"="手机号";
+"PersonInfoNoNickNameDes"="您尚未设置昵称";
+
+//修改手机号
+"ModifyPhoneTitle"="更改手机号";
+"ModifyPhoneNextBtnTitle"="下一步";
+"ModifyPhoneAgreeBtnTitle"="同意《铁路出行助手服务条款》";
+
+//服务查询
+"ServiceQueryTitle"="服务查询";
+"ServiceQueryServiceTypeMark"="服务类型";
+"ServiceQueryDateTypeMark"="日期类型";
+"ServiceQueryStartDate"="起始时间";
+"ServiceQueryEndDate"="结束时间";
+"ServiceQueryBtnTitle"="查询";
+
+//登录
+"LoginTitle"="登录Hi途账号";
+"LoginPhoneNumPlaceHolder"="使用手机登录(11位数字)";
+"LoginCodeNumPlaceHolder"="输入短信验证码（6位数字）";
+"LoginCodeBtnTitle"="获取验证码";
+"LoginBtnTitle"="登录";
+
+
